@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmotionInput</string>
+    <string name="emotion">emotion</string>
+    <string name="text">text</string>
+    <string name="send">Send</string>
+    <string name="ok">完成</string>
+    <string name="content">I\'m Content</string>
+    <string name="emotion_drag_key">emotion_drag_key</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emoticon_text">我保证不打死你我保证不打死你我保证不打死你我保证不打死你我保证不打死你我保证不打死你</string>
+</resources>
